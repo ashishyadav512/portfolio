@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "role": "Web Developer Training ",
+    "organisation": "Google",
+    "startDate": "Sep, 2022",
+    "endDate": "Oct,2022",
+    "location": "Lucknow,Uttarprades",
+    "experiences": [
+      "Worked on Real-life Projects",
+      "Worked with experiences Mentor"
+    ],
+    "imageSrc": "company/meta.png"
+    
+  },
+  {
+    "id": 2,
+    "role": "JAVA Training ",
+    "organisation": "Mirosoft",
+    "startDate": "Mar, 2023",
+    "endDate": "Apr, 2023",
+    "location": "Lucknow, Uttarpradesh",
+    "experiences": [
+      "Worked on Beginner level project",
+      "Learned Problem solving skills"
+    ],
+    "imageSrc": "company/meta.png"
+  },
+  {
+    "id": 3,
+    "role": "TEKNOSOFT ML Internship",
+    "organisation": "Netflix",
+    "startDate": "Mar, 2024",
+    "endDate": "Apr, 2024",
+    "location": "online ",
+    "experiences": [
+      "Work as a ML Intern",
+      "Developed ML Chatbots"
+    ],
+    "imageSrc": "company/meta.png"
+  }
+]
+
+
+
+
